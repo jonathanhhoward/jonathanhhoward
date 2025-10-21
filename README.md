@@ -8,7 +8,7 @@
 - **AWS Serverless**: Lambda, DynamoDB, and all the cloud magic
 
 ## 🛠️ Projects I Love
-- [Caclulator](#) – My favorite project! (Ask me about it or check it out!)
+- [Calculator](#) – My favorite project! (Ask me about it or check it out!)
 
 ## 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jonathanhhoward/)
